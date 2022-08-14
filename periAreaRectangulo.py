@@ -5,4 +5,4 @@ ancho = float ( input ( ' Escriba el valor del ancho  ' ) )
 perimetro = 2 * largo + 2 * ancho
 area = largo * ancho
 
-print ( ' El perímetro es ', perimetro , 'cm y su área es ' , area ,  ' cm cuadrados ')
+print ( ' El perímetro es ', perimetro , 'y su área es ' , area  )
