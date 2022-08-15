@@ -9,7 +9,7 @@ disc = ( B ** 2 - 4 * A * C) ** ( 1 / 2 )
 
 print ( )
 # Análisis discriminante
-
+'''
 if disc < 0:
     print ( ' Tiene 2 raíces reales diferentes ' )
 if disc == 0:
@@ -18,7 +18,7 @@ else:
     print ( ' Tiene dos raíces complejas diferentes' )
 print ( )
 # Cálculo de las raíces
-
+'''
 print ( ' x1 = ' ,   ( - B + disc ) / ( 2 * A )  ) 
 print ( )
 print ( ' x2 = ' ,   ( - B - disc ) / ( 2 * A )  )
